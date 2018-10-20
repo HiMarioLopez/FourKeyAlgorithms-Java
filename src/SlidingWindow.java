@@ -42,7 +42,9 @@ import java.util.Set;
  *          e.g. input: ABCZDCAB, set: {A, B, C, D}, solution: DCAB
  *
  * Popular questions:
+ *
  *      - Given an array of integers, find the sub-array with the largest total sum
+ *
  *      - You're given a string, a mapping from characters -> score (integer), and
  *        an integer n. Find the longest substring with a score less than or equal to n.
  */
